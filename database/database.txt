@@ -1,2 +1,4 @@
 # Please access the link below to download single-pdrc-dataset
-www.kaggle.com/datasets/huyenanhtuyen/single-layer-pdrc-dataset
+https://drive.google.com/drive/folders/1rnBhEC4J7UA0NYoACEzP7nsVc8OpPyWp?usp=sharing
+https://drive.google.com/drive/folders/1NvZg-SDcw8mz04bJDVR5gzvKXFX0w4Wc?usp=sharing
+https://drive.google.com/drive/folders/1UmaYwsyaSYH1KDhsu03DwrV7nrthCrNH?usp=sharing
